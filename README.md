@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...developing applications
 - 🌱 I’m currently learning ...unity
 - 💞️ I’m looking to collaborate on ...developing applications
-- 📫 How to reach me ...harvey970121@naver.com
+- 📫 How to reach me ...kong1230@kau.ac.kr
 
 <!---
 harvinat0r/harvinat0r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
